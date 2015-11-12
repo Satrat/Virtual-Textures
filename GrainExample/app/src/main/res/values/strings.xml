@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GrainExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="grain_type">Grain Area Bumpy</string>
+    <string name="title_activity_grain1">Grain1</string>
+    <string name="title_activity_grain2">Grain2</string>
+    <string name="title_activity_grain3">Grain3</string>
+    <string name="title_activity_grain4">Grain4</string>
+    <string name="button1">Grain Area Smooth</string>
+    <string name="button2">Grain Area Bumpy</string>
+    <string name="button3">Grain Area Grainy</string>
+    <string name="button4">Grain Area Even</string>
+</resources>
