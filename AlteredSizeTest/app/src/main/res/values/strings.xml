@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlteredSizeTest</string>
+    <string name ="pixelSize">300px</string>
+</resources>
